@@ -1,0 +1,43 @@
+# Data Analytics Internship Tasks
+
+This repository contains my Data Analytics internship tasks and projects.
+
+## 📌 About
+The projects in this repository focus on:
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Business Insights
+
+## 🛠 Tools Used
+- Excel
+- SQL
+- Power BI
+- Python
+
+## 📂 Project Structure
+
+```bash
+task_1_data/
+task_2/
+task_3/
+```
+
+## 📊 Skills Practiced
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Creation
+- Business Problem Solving
+- Data Visualization
+
+## 🚀 Learning Outcomes
+Through these tasks, I improved my:
+- Analytical thinking
+- Visualization skills
+- SQL querying
+- Dashboard design
+- Data storytelling
+
+## 👨‍💻 Author
+Manish Kumar
+S
