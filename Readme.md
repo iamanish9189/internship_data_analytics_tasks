@@ -31,15 +31,15 @@ Estimated Profit	£2.55 Million
 Primary Market	United Kingdom
 
 # Data Cleaning & Transformation
-.  Removed null Customer IDs to ensure valid customer-level analysis
-.  Removed negative quantity transactions representing cancelled or returned orders
-.  Removed zero and negative UnitPrice values to maintain accurate revenue calculations
-.  Removed duplicate transaction records to improve dataset consistency and reporting accuracy
-.  Detected and removed extreme outliers from Quantity data to avoid distorted KPIs and sales trends
-.  Cleaned and standardized StockCode values by removing non-product codes and inconsistent formats
-.  Corrected data formatting and improved overall dataset quality using Microsoft Excel
+(i)  Removed null Customer IDs to ensure valid customer-level analysis
+(ii)  Removed negative quantity transactions representing cancelled or returned orders
+(iii) Removed zero and negative UnitPrice values to maintain accurate revenue calculations
+(iv)  Removed duplicate transaction records to improve dataset consistency and reporting accuracy
+(v) Detected and removed extreme outliers from Quantity data to avoid distorted KPIs and sales trends
+(vi) Cleaned and standardized StockCode values by removing non-product codes and inconsistent formats
+(vii)  Corrected data formatting and improved overall dataset quality using Microsoft Excel
  and Power Query in Microsoft Power BI
-.  Created a clean and reliable dataset for accurate dashboard analysis and business insights
+(viii)  Created a clean and reliable dataset for accurate dashboard analysis and business insights
 
 # The company lacked a centralized analytical solution to monitor:
 Sales performance
